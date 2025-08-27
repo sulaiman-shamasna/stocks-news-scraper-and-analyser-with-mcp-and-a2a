@@ -1,0 +1,5 @@
+python-a2a
+fastmcp
+langchain-openai
+yfinance
+pandas
